@@ -36,4 +36,6 @@ The game ends when a player wins or the board is full due to a tie.
 $ git clone https://github.com/menonap/tictactoe
 $ cd tictactoe
 $ python3 TTT.py
-
+```
+---
+#### Front-end in progress
