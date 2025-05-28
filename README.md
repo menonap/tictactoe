@@ -21,6 +21,13 @@ B [ ] | [ ] | [ ]
 C [ ] | [ ] | [ ]
 ```
 
+---
+### 🧾 How to Play
+Input the cell location in the format \<RowLetter>\<ColumnNumber> (e.g., A1, C3)
+
+Player X starts first
+
+The game ends when a player wins or the board is full due to a tie.
 
 ---
 
@@ -35,11 +42,4 @@ cd tic-tac-toe
 
 2. Run the game using Python 3:
 `python tic_tac_toe.py`
-
-### 🧾 How to Play
-Input the cell location in the format <RowLetter><ColumnNumber> (e.g., A1, C3)
-
-Player X starts first
-
-The game ends when a player wins or the board is full (tie)
 
