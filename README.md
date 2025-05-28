@@ -1,14 +1,6 @@
 # 🧠 Tic-Tac-Toe
 
-![GitHub stars](https://img.shields.io/github/stars/AjaySum/eecs486-MovieRecommender?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/menonap/tictactoe)
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![GitHub top language](https://img.shields.io/github/languages/top/menonap/tictactoe)
-![GitHub last commit](https://img.shields.io/github/last-commit/AjaySum/eecs486-MovieRecommender?color=red)
-
-
-A simple command-line Tic-Tac-Toe game in Python for two players. Built for learning and fun!
+A simple command-line version of Tic-Tac-Toe made in Python for two players.
 
 ---
 
