@@ -28,3 +28,12 @@ Input the cell location in the format \<RowLetter>\<ColumnNumber> (e.g., A1, C3)
 Player X starts first
 
 The game ends when a player wins or the board is full due to a tie.
+
+---
+
+### 🚀 Terminal Instructions
+```
+$ git clone https://github.com/menonap/tictactoe
+$ cd tictactoe
+$ python3 TTT.py
+
